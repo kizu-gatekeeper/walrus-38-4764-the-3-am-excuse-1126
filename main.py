@@ -6,7 +6,7 @@ Writes a single line (at most 200 characters) to $MAKEFUN_OUTPUT_DIR/entry.txt.
 import os
 from pathlib import Path
 
-LINE = "Not signing at 3 AM: last time I approved a half-asleep thumb, we bought a yacht picture and a coin named after soup; wake me when the sun can co-sign."
+LINE = "Not signing at 3 AM: last time I approved a half-asleep thumb, we bought a picture of a yacht and a coin named after soup; wake me when the sun can co-sign."
 MAX_CHARS = 200
 
 
